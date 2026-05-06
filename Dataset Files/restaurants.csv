@@ -1,0 +1,11 @@
+restaurant_id,restaurant_name,city,cuisine_type,seating_capacity,open_hour,close_hour,avg_ticket_size
+R001,Restaurant_001,Chennai,South Indian,52,8,23,430.16
+R002,Restaurant_002,Hyderabad,North Indian,148,8,23,669.4
+R003,Restaurant_003,Bengaluru,North Indian,52,8,23,233.68
+R004,Restaurant_004,Chennai,Cafe,137,8,23,736.1
+R005,Restaurant_005,Chennai,Cafe,143,8,23,628.06
+R006,Restaurant_006,Mumbai,South Indian,146,8,23,253.02
+R007,Restaurant_007,Chennai,South Indian,157,8,23,391.35
+R008,Restaurant_008,Bengaluru,North Indian,103,8,23,708.26
+R009,Restaurant_009,Delhi,Cafe,149,8,23,648.97
+R010,Restaurant_010,Chennai,Cafe,130,8,23,432.75
